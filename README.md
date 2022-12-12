@@ -30,8 +30,9 @@ Sample Results:
 
 https://user-images.githubusercontent.com/8300565/206939700-6ca878ea-8600-40ee-a14f-597ebf176e7a.mp4
 
-amazing coherence
+... amazing coherence
 
-Let's move forward
+Let's move forward!
+
 ![7lrqseW_](https://user-images.githubusercontent.com/8300565/207170061-88c823c7-996f-412b-bd4c-3c02e306dde2.png)
 
