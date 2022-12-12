@@ -32,6 +32,14 @@ https://user-images.githubusercontent.com/8300565/206939700-6ca878ea-8600-40ee-a
 
 ... amazing coherence
 
+
+Example images:
+
+![072](https://user-images.githubusercontent.com/8300565/207172663-d347b44f-bce3-4a15-9e92-5411ccdd7cb4.png)![072](https://user-images.githubusercontent.com/8300565/207172714-368f5c5e-a6c2-422a-b3cd-8c926e73779c.png)
+
+
+
+
 Let's move forward!
 
 ![7lrqseW_](https://user-images.githubusercontent.com/8300565/207170061-88c823c7-996f-412b-bd4c-3c02e306dde2.png)
