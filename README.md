@@ -3,6 +3,8 @@ STABLE DIFFUSION DEPTH TO VIDEO
 
 ![download](https://user-images.githubusercontent.com/8300565/207204501-fc4bf66a-5c4c-4ebb-83ab-b226240b3b3e.png)
 ![download (1)](https://user-images.githubusercontent.com/8300565/207212654-391f91bb-bf99-4263-8423-ebb41622a55a.png)
+![image](https://user-images.githubusercontent.com/8300565/207255951-bf040b25-0cec-4c3f-8bd0-aa0b3690e12c.png)
+
 
 
 From a video or frames
