@@ -1,12 +1,9 @@
 # depth2video
-stable diffusion 
+STABLE DIFFUSION
 
-work in progress, any help is welcome
+![download](https://user-images.githubusercontent.com/8300565/207204501-fc4bf66a-5c4c-4ebb-83ab-b226240b3b3e.png)
 
-
-from a video or frames
-to stable diffussion
-
+From a video or frames
 
 https://user-images.githubusercontent.com/8300565/206936399-264b0cf8-62f1-499e-b7b0-4b8a520d3db6.mp4
 
