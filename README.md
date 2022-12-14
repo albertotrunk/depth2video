@@ -1,4 +1,4 @@
-# depth2video
+# depth2video work in progress
 STABLE DIFFUSION DEPTH TO VIDEO
 
 ![download](https://user-images.githubusercontent.com/8300565/207256115-c4de6b6f-3890-4e00-9e9c-e4a2162c22d5.png)
@@ -46,4 +46,12 @@ Example images:
 Let's move forward!
 
 ![7lrqseW_](https://user-images.githubusercontent.com/8300565/207170061-88c823c7-996f-412b-bd4c-3c02e306dde2.png)
+
+And forward...
+
+![download (1)](https://user-images.githubusercontent.com/8300565/207649531-3993e5da-b3d2-4527-b282-155b1a599d0b.png)
+
+![image](https://user-images.githubusercontent.com/8300565/207649853-701bd395-ce77-4bd6-bdd3-59cd8406b7d0.png)
+
+
 
