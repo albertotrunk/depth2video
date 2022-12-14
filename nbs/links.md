@@ -37,6 +37,7 @@ UTILS
 https://github.com/niconielsen32/ComputerVision
 https://github.com/isl-org
 https://github.com/google/mediapipe
+
 CREATE 3D MESH
 https://towardsdatascience.com/generate-a-3d-mesh-from-an-image-with-python-12210c73e5cc
 
