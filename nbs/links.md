@@ -50,4 +50,5 @@ https://github.com/carson-katri/dream-textures
 STABILITY SDK
 https://github.com/Stability-AI/stability-sdk
 
-
+VAE
+https://github.com/omniverse-labs/Deep-Learning-with-PyTorch/blob/main/variational_auto_encoders.ipynb
